@@ -1,6 +1,6 @@
 # rpi-java8
 
-Code for building a Docker image, intended for running Java8 on a Raspberry Pi.
+A Docker image, intended for running Java8 on a Raspberry Pi.
 
 ## Authors
 
